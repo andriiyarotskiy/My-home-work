@@ -1,0 +1,25 @@
+ctrl+L - очистити
+git status
+git add
+git add .
+git commit
+git commit -m'коментар'
+git branch (b1,b2,b3)
+git checkout
+git merge - обЇднанн€ г≥лок
+git clone
+. - поточна папака
+cd .. - перем≥щенн€ назад
+git remote -v
+git remote -h
+git pull - ст€гуЇ
+git push - в≥дпускаЇ
+git pull origin master
+git log
+git master
+
+створити локальний репоз≥тор≥й добавити пару г≥лок
+публ≥чний репоз≥тор≥й
+figma
+
+vfifyflz1488
